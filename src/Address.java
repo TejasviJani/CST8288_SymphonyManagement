@@ -18,6 +18,7 @@ package symphony.domain;
  * Description of this class.
  * @author    Name
  * @version   1.0.0 Date
+ * Test commit for everett!!!!
  */
 public class Address {
 	
